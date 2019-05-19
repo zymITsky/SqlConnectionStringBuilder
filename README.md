@@ -1,0 +1,2 @@
+# SqlConnectionStringBuilder
+SQL Server连接字符串构造工具
